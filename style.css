@@ -229,7 +229,7 @@ body {
 	display: block;
 	text-transform: uppercase;
 	padding: 15px;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 3rem;
 	transition: 0.4s cubic-bezier(.5, 0, 0, 1);
 }
