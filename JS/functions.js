@@ -35,7 +35,6 @@ export function animateLogo() {
         const heighCss = widthBanniere*(16/9).toString()
         document.querySelector('.banniere').style.height = `${heighCss}px`
         console.log(`height bannière : ${heighCss} px`)
-
     }
   }
   calculHeightBanniere()

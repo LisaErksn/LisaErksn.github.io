@@ -14,6 +14,8 @@ opacityVideo()
 popupOpen()
 popupClose()
 calculHeightBanniere()
+onresize = () => { calculHeightBanniere() };
+
 
 
 

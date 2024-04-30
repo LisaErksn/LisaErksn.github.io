@@ -61,7 +61,10 @@ function calculHeightBanniere(){
 
     }
   }
-calculHeightBanniere()
+  calculHeightBanniere()
+
+  onresize = () => { calculHeightBanniere() };
+
 
 //-------Bouton bannière-------
 
